@@ -1,4 +1,4 @@
-BIUjQuery
+[BIU] jQuery plugin - wprawki
 =========
 
-Wprawki, prosty plugin do walidacji
+prosty plugin do walidacji
